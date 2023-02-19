@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# This React-Random-UI Project is created by using React.
 
-![React App - Google Chrome 18_12_2022 07_16_29](https://user-images.githubusercontent.com/109124944/208306185-5001d9f8-f8dc-475e-a08d-c41e57d369bb.png)
+
+
+
+
+![ui](https://user-images.githubusercontent.com/110152369/219942181-eb99d4c8-201a-4439-84cc-2fcd5f6a73e9.png)
+
+
+
+
+
 
 
 
